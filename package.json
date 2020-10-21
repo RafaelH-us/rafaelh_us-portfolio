@@ -1,0 +1,24 @@
+{
+  "name": "rafaelh-portfolio",
+  "version": "1.0.0",
+  "description": "rafael-portfolio and blog",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafawashere/rafaelh_us-portfolio.git"
+  },
+  "keywords": [
+    "blog",
+    "portfolio"
+  ],
+  "author": "Rafael Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafawashere/rafaelh_us-portfolio/issues"
+  },
+  "homepage": "https://github.com/rafawashere/rafaelh_us-portfolio#readme",
+  "dependencies": {}
+}
